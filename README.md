@@ -1,12 +1,6 @@
 # Salesforce Developer Portfolio
 Contains my Salesforce Developer portfolio, projects, learnings and roadmaps.
 
-# Day 1: Complete Learning Session
-
-**Date:** February 10, 2026  
-**Duration:** First study session  
-**Status:** ✅ Completed
-
 ---
 
 ## Table of Contents
