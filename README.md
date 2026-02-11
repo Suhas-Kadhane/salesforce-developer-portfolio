@@ -1,7 +1,20 @@
 # Salesforce Developer Portfolio
-Contains my Salesforce Developer portfolio, projects, learnings and roadmaps.
+### From User to Certified Developer in 60 Days
 
 ---
+
+## About Me
+
+Salesforce user transitioning to developer role. Committed to 5-8 hours daily learning, building real projects, and earning Platform Developer I certification.
+
+## Featured Project: FilmClub Application 🎬
+
+A full-stack Salesforce implementation designed to bridge the gap between business logic and the cinema experience.
+- OMDb API Integration: A custom Screen Flow that dynamically fetches IMDb metadata directly into Salesforce.
+- Media Command Center: A Netflix-style Home Page UI featuring visual posters and curated collections.
+Autonomous Support: An Agentforce Service Agent that manages member RSVPs and movie FAQs.
+- **[View Project Details](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/main)**
+
 
 ## Table of Contents
 1. [Learning Goals & Context](#learning-goals--context)
