@@ -154,6 +154,7 @@ System.debug('Phone: ' + myContact.Phone);
 ### Challenge 2: Create an Opportunity ✅
 
 ```apex
+// Creating new Opportunity
 Opportunity opp = new Opportunity();
 opp.Name = 'Big Deal';
 opp.StageName = 'Prospecting';
@@ -161,6 +162,8 @@ opp.CloseDate = Date.today();
 
 System.debug('Opportunity: ' + opp.Name);
 System.debug('Stage: ' + opp.StageName);
+System.debug('Date: ' + opp.CloseDate);
+
 ```
 
 ---
