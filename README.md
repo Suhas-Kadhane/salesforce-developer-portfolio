@@ -1,5 +1,5 @@
 # Salesforce Developer Portfolio
-### From User to Certified Developer in 60 Days
+### From User to Certified Developer Journey
 
 ---
 
