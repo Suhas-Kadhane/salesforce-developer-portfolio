@@ -7,7 +7,7 @@
 
 Salesforce user transitioning to developer role. Committed to 5-8 hours daily learning, building real projects, and earning Platform Developer I certification.
 
-## Featured Project: FilmClub Application 🎬
+## Featured Project: FilmClub Application
 
 A full-stack Salesforce implementation designed to bridge the gap between business logic and the cinema experience.
 - OMDb API Integration: A custom Screen Flow that dynamically fetches IMDb metadata directly into Salesforce.
@@ -88,11 +88,11 @@ Autonomous Support: An Agentforce Service Agent that manages member RSVPs and mo
 - **Hour 8:** Trailhead modules for cert prep (if doing 8 hours)
 
 ### Expected Outcomes by Week 8
-- ✅ Platform Dev I certification
-- ✅ 3 solid portfolio projects on GitHub
-- ✅ 200+ hours of actual coding experience
-- ✅ Interview-ready knowledge of triggers, testing, async Apex
-- ✅ Strong shot at landing first Salesforce Developer role
+- Platform Dev I certification
+- 3 solid portfolio projects on GitHub
+- 200+ hours of actual coding experience
+- Interview-ready knowledge of triggers, testing, async Apex
+- Strong shot at landing first Salesforce Developer role
 
 ---
 
