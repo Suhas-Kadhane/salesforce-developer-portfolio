@@ -7,7 +7,9 @@
 
 Salesforce user transitioning to developer role. Committed to 5-8 hours daily learning, building real projects, and earning Platform Developer I certification.
 
-## Featured Project: FilmClub Application
+## Featured Projects: 
+
+### 1. FilmClub - A Custom Salesforce Application
 
 A full-stack Salesforce implementation designed to bridge the gap between business logic and the cinema experience.
 - OMDb API Integration: A custom Screen Flow that dynamically fetches IMDb metadata directly into Salesforce.
@@ -15,6 +17,20 @@ A full-stack Salesforce implementation designed to bridge the gap between busine
 Autonomous Support: An Agentforce Service Agent that manages member RSVPs and movie FAQs.
 - **[View Project Details](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/main)**
 
+### 2. ExplainThis - A Chrome Extension
+
+A simple web application that simplifies complex text content. It is built using HTML, CSS, and JavaScript as part of a foundational front-end learning project.
+
+ExplainThis allows users to:
+- Paste complex text into a text area
+- Click a "Simplify" button
+- View a simplified version of the content below
+- **[View Project Details](https://github.com/Suhas-Kadhane/explainthis-webapp)**
+
+Currently, the app uses basic JavaScript logic to simulate simplification by extracting the first sentence of the input text.
+This project will later evolve into an AI-powered simplification tool.
+
+---
 
 ## Table of Contents
 1. [Learning Goals & Context](#learning-goals--context)
